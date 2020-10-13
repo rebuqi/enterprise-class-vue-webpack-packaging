@@ -1,4 +1,5 @@
 # enterprise-class-vue-webpack-packaging
+#企业级开箱即用的封装
 
 
 > A Vue.js project
